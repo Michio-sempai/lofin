@@ -1,0 +1,1 @@
+echo "Start post create command from devcontainer"
